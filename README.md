@@ -2,3 +2,5 @@ Este es un repositorio creado para practicar Git, como practica del tecnico supe
 
 
 Este cambio viene de master y también de mi-rama. Conflicto resuelto correctamente.
+
+Este cambio fué hecho desde el repositorio clonado.
